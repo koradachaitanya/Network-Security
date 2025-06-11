@@ -1,6 +1,3 @@
-Certainly! Here is a professional README file describing both the **Port Scanning** and **Basic Vulnerability Scanning with Nmap** tasks:
-
----
 
 # Network Security Tasks: Port Scanning & Vulnerability Scanning
 
